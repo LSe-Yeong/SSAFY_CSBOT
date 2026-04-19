@@ -3,7 +3,7 @@ import json
 import os
 import random
 
-TOPICS = ["Java", "Spring", "시스템 설계", "Database", "OS", "Network"]
+TOPICS = ["Java", "Spring","자료구조", "알고리즘", "시스템 설계" , "Database", "운영체제", "네트워크", "WEB"]
 
 USED_TOPICS_FILE = os.path.join(os.path.dirname(__file__), "used_topics.json")
 
