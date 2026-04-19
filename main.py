@@ -22,6 +22,5 @@ def main() -> None:
     sendApi(format_notes(notes))
     logger.info(f"{len(notes)}개 게시 완료")
 
-
 if __name__ == "__main__":
     main()
