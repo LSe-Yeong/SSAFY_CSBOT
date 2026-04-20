@@ -1,6 +1,5 @@
 from datetime import date
 
-DIFFICULTY_LABEL = {"초급": "EASY", "중급": "MEDIUM", "고급": "HARD"}
 DIFFICULTY_EMOJI = {"초급": "🟢", "중급": "🟡", "고급": "🔴"}
 TOPIC_EMOJI = {
     "Java": "☕",
@@ -26,7 +25,7 @@ def format_notes(notes: list[dict]) -> str:
 def _build_header(today: str) -> str:
     return (
         f"## 📚 Daily Tech Notes  |  {today}\n"
-        f"##### 기술 면접 & 개발 지식 3선\n"
+        f"##### 오늘의 개발 지식 3선\n"
         f"---"
     )
 
@@ -35,16 +34,11 @@ def _build_card(index: int, note: dict) -> str:
     emoji = TOPIC_EMOJI.get(topic, "📌")
     difficulty = note.get("difficulty", "중급")
     diff_emoji = DIFFICULTY_EMOJI.get(difficulty, "🟡")
-    diff_label = DIFFICULTY_LABEL.get(difficulty, difficulty)
 
     return (
         f"### {emoji} #{index:02d}  {note.get('title', '')}\n"
-        f"`{topic}` {diff_emoji} `{diff_label}`\n\n"
-        f"{note.get('summary', '')}\n\n"
-        f"**상세 설명**\n"
-        f"> {note.get('detail', '')}\n\n"
-        f"**💡 면접 팁**\n"
-        f"> {note.get('interview_tip', '')}\n\n"
+        f"`{topic}` {diff_emoji} `{difficulty}`\n\n"
+        f"{note.get('body', '')}\n\n"
         f"---\n \n \n"
     )
 
