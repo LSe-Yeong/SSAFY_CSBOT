@@ -42,7 +42,9 @@ def _build_card(index: int, note: dict) -> str:
         f"{note.get('body', '')}\n\n"
         f"**🔍 더 알아보기 (추가적으로 구글링해서 알아보기!)**\n"
         + "".join(f"> {i+1}. {q}\n" for i, q in enumerate(note.get("questions", [])))
-        + "\n---\n \n \n"
+        + "\n**🏷️ 연관 키워드**\n"
+        + " ".join(f"`{k}`" for k in note.get("keywords", []))
+        + "\n\n---\n \n \n"
     )
 
 def _build_footer() -> str:
