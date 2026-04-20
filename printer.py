@@ -38,8 +38,11 @@ def _build_card(index: int, note: dict) -> str:
     return (
         f"### {emoji} #{index:02d}  {note.get('title', '')}\n"
         f"`{topic}` {diff_emoji} `{difficulty}`\n\n"
+        f"_{note.get('summary', '')}_\n\n"
         f"{note.get('body', '')}\n\n"
-        f"---\n \n \n"
+        f"**🔍 더 알아보기 (추가적으로 구글링해서 알아보기!)**\n"
+        + "".join(f"> {i+1}. {q}\n" for i, q in enumerate(note.get("questions", [])))
+        + "\n---\n \n \n"
     )
 
 def _build_footer() -> str:
