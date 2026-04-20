@@ -5,10 +5,13 @@ DIFFICULTY_EMOJI = {"초급": "🟢", "중급": "🟡", "고급": "🔴"}
 TOPIC_EMOJI = {
     "Java": "☕",
     "Spring": "🌱",
+    "자료구조": "🧱",
+    "알고리즘": "⚙️",
     "시스템 설계": "🏗️",
     "Database": "🗄️",
-    "OS": "💻",
-    "Network": "🌐",
+    "운영체제": "💻",
+    "네트워크": "🌐",
+    "WEB": "🌍",
 }
 
 def format_notes(notes: list[dict]) -> str:
