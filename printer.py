@@ -25,7 +25,7 @@ def format_notes(notes: list[dict]) -> str:
 def _build_header(today: str) -> str:
     return (
         f"## 📚 Daily Tech Notes  |  {today}\n"
-        f"##### 오늘의 개발 지식 3선\n"
+        f"##### 오늘의 개발 지식 2선\n"
         f"---"
     )
 
