@@ -1,7 +1,8 @@
 {
   "Database": [
     "인덱스(Index)의 동작 원리와 실전 활용",
-    "정규화(Normalization)와 이상 현상(Anomaly) 제거"
+    "정규화(Normalization)와 이상 현상(Anomaly) 제거",
+    "트랜잭션(Transaction)의 ACID 특성과 격리 수준(Isolation Level)"
   ],
   "Spring": [
     "의존성 주입(DI)과 IoC 컨테이너의 실제 역할",
@@ -14,7 +15,8 @@
     "TCP 3-Way Handshake와 연결 상태 관리"
   ],
   "알고리즘": [
-    "이진 탐색(Binary Search)과 정렬된 데이터의 활용"
+    "이진 탐색(Binary Search)과 정렬된 데이터의 활용",
+    "동적 계획법(Dynamic Programming)의 개념과 문제 해결 전략"
   ],
   "Java": [
     "가비지 컬렉션(GC)의 동작 원리와 성능 최적화"
