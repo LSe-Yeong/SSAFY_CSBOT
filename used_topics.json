@@ -6,10 +6,12 @@
   ],
   "Spring": [
     "의존성 주입(DI)과 IoC 컨테이너의 실제 역할",
-    "Spring AOP(관점 지향 프로그래밍)와 횡단 관심사 분리"
+    "Spring AOP(관점 지향 프로그래밍)와 횡단 관심사 분리",
+    "Spring Bean의 생명주기(Lifecycle)와 초기화/소멸 메커니즘"
   ],
   "자료구조": [
-    "해시 테이블(Hash Table)과 충돌 해결 전략"
+    "해시 테이블(Hash Table)과 충돌 해결 전략",
+    "그래프(Graph)의 표현 방식과 탐색 알고리즘의 실전 활용"
   ],
   "네트워크": [
     "TCP 3-Way Handshake와 연결 상태 관리"
