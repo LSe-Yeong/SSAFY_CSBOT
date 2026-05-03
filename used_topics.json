@@ -2,7 +2,8 @@
   "Database": [
     "인덱스(Index)의 동작 원리와 실전 활용",
     "정규화(Normalization)와 이상 현상(Anomaly) 제거",
-    "트랜잭션(Transaction)의 ACID 특성과 격리 수준(Isolation Level)"
+    "트랜잭션(Transaction)의 ACID 특성과 격리 수준(Isolation Level)",
+    "데이터베이스 커넥션 풀(Connection Pool)과 성능 최적화"
   ],
   "Spring": [
     "의존성 주입(DI)과 IoC 컨테이너의 실제 역할",
@@ -19,7 +20,8 @@
   ],
   "알고리즘": [
     "이진 탐색(Binary Search)과 정렬된 데이터의 활용",
-    "동적 계획법(Dynamic Programming)의 개념과 문제 해결 전략"
+    "동적 계획법(Dynamic Programming)의 개념과 문제 해결 전략",
+    "그리디 알고리즘(Greedy Algorithm)과 최적 부분구조 활용"
   ],
   "Java": [
     "가비지 컬렉션(GC)의 동작 원리와 성능 최적화"
