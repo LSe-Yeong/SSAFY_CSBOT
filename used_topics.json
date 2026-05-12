@@ -41,11 +41,13 @@
     "서킷 브레이커(Circuit Breaker) 패턴을 통한 장애 전파 방지"
   ],
   "운영체제": [
-    "프로세스와 스레드의 차이 및 컨텍스트 스위칭"
+    "프로세스와 스레드의 차이 및 컨텍스트 스위칭",
+    "메모리 관리: 페이징(Paging)과 세그멘테이션(Segmentation)의 실무 이해"
   ],
   "WEB": [
     "HTTP 상태 코드와 REST API 설계의 실제 적용",
     "RESTful API 설계에서 멱등성(Idempotency)의 실무 적용",
-    "HTTP Keep-Alive와 Connection 관리를 통한 네트워크 성능 최적화"
+    "HTTP Keep-Alive와 Connection 관리를 통한 네트워크 성능 최적화",
+    "CORS(Cross-Origin Resource Sharing)와 SameSite 쿠키 정책의 보안 실전"
   ]
 }
