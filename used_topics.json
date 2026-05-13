@@ -38,11 +38,13 @@
     "분산 시스템에서의 일관성 모델(Consistency Model)과 CAP 정리의 실전 이해",
     "메시지 큐(Message Queue)를 활용한 비동기 처리와 시스템 결합도 감소",
     "로드 밸런싱(Load Balancing)의 알고리즘과 실전 적용",
-    "서킷 브레이커(Circuit Breaker) 패턴을 통한 장애 전파 방지"
+    "서킷 브레이커(Circuit Breaker) 패턴을 통한 장애 전파 방지",
+    "분산 트레이싱(Distributed Tracing)을 통한 마이크로서비스 모니터링과 성능 최적화"
   ],
   "운영체제": [
     "프로세스와 스레드의 차이 및 컨텍스트 스위칭",
-    "메모리 관리: 페이징(Paging)과 세그멘테이션(Segmentation)의 실무 이해"
+    "메모리 관리: 페이징(Paging)과 세그멘테이션(Segmentation)의 실무 이해",
+    "가상 메모리(Virtual Memory)와 메모리 부족 상황에서의 성능 관리"
   ],
   "WEB": [
     "HTTP 상태 코드와 REST API 설계의 실제 적용",
