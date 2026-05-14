@@ -31,7 +31,8 @@
     "멀티스레드 환경에서의 동시성 제어: Synchronized와 Lock의 실제 차이",
     "String 불변성(Immutability)과 String Pool을 통한 메모리 최적화",
     "Double-Checked Locking 패턴과 volatile 키워드의 필요성",
-    "메모리 누수(Memory Leak)와 약한 참조(Weak Reference)를 통한 해결 전략"
+    "메모리 누수(Memory Leak)와 약한 참조(Weak Reference)를 통한 해결 전략",
+    "ThreadLocal과 메모리 누수 방지 전략"
   ],
   "시스템 설계": [
     "캐싱 전략(Caching Strategy)과 캐시 일관성 문제",
@@ -39,7 +40,8 @@
     "메시지 큐(Message Queue)를 활용한 비동기 처리와 시스템 결합도 감소",
     "로드 밸런싱(Load Balancing)의 알고리즘과 실전 적용",
     "서킷 브레이커(Circuit Breaker) 패턴을 통한 장애 전파 방지",
-    "분산 트레이싱(Distributed Tracing)을 통한 마이크로서비스 모니터링과 성능 최적화"
+    "분산 트레이싱(Distributed Tracing)을 통한 마이크로서비스 모니터링과 성능 최적화",
+    "Rate Limiting(속도 제한)의 알고리즘과 실전 구현"
   ],
   "운영체제": [
     "프로세스와 스레드의 차이 및 컨텍스트 스위칭",
