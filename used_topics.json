@@ -44,14 +44,16 @@
     "분산 트레이싱(Distributed Tracing)을 통한 마이크로서비스 모니터링과 성능 최적화",
     "Rate Limiting(속도 제한)의 알고리즘과 실전 구현",
     "멱등성(Idempotency)을 활용한 분산 시스템의 안정성 보장",
-    "분산 락(Distributed Lock)을 통한 동시성 제어와 선택 기준"
+    "분산 락(Distributed Lock)을 통한 동시성 제어와 선택 기준",
+    "백프레셔(Backpressure) 처리와 시스템 안정성: 느린 소비자를 다루기"
   ],
   "운영체제": [
     "프로세스와 스레드의 차이 및 컨텍스트 스위칭",
     "메모리 관리: 페이징(Paging)과 세그멘테이션(Segmentation)의 실무 이해",
     "가상 메모리(Virtual Memory)와 메모리 부족 상황에서의 성능 관리",
     "CPU 스케줄링 알고리즘과 문맥 교환(Context Switching)의 성능 영향",
-    "메모리 누수와 GC 튜닝: 힙 메모리 관리의 실전 전략"
+    "메모리 누수와 GC 튜닝: 힙 메모리 관리의 실전 전략",
+    "메모리 관리: 스택(Stack)과 힙(Heap)의 역할 분담과 성능 영향"
   ],
   "WEB": [
     "HTTP 상태 코드와 REST API 설계의 실제 적용",
