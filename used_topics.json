@@ -15,7 +15,8 @@
   "자료구조": [
     "해시 테이블(Hash Table)과 충돌 해결 전략",
     "그래프(Graph)의 표현 방식과 탐색 알고리즘의 실전 활용",
-    "우선순위 큐(Priority Queue)와 힙(Heap)을 활용한 효율적인 데이터 관리"
+    "우선순위 큐(Priority Queue)와 힙(Heap)을 활용한 효율적인 데이터 관리",
+    "B-Tree와 B+ Tree: 데이터베이스 인덱싱의 핵심 자료구조"
   ],
   "네트워크": [
     "TCP 3-Way Handshake와 연결 상태 관리"
