@@ -19,7 +19,8 @@
     "B-Tree와 B+ Tree: 데이터베이스 인덱싱의 핵심 자료구조"
   ],
   "네트워크": [
-    "TCP 3-Way Handshake와 연결 상태 관리"
+    "TCP 3-Way Handshake와 연결 상태 관리",
+    "UDP vs TCP: 프로토콜 선택 기준과 실전 활용"
   ],
   "알고리즘": [
     "이진 탐색(Binary Search)과 정렬된 데이터의 활용",
@@ -36,7 +37,8 @@
     "메모리 누수(Memory Leak)와 약한 참조(Weak Reference)를 통한 해결 전략",
     "ThreadLocal과 메모리 누수 방지 전략",
     "ConcurrentHashMap과 동시성 제어: 멀티스레드 환경에서의 안전한 해시맵 사용",
-    "Synchronized와 Lock의 실제 차이: 어느 것을 언제 써야 할까?"
+    "Synchronized와 Lock의 실제 차이: 어느 것을 언제 써야 할까?",
+    "ReentrantLock과 Condition을 활용한 명시적 동시성 제어"
   ],
   "시스템 설계": [
     "캐싱 전략(Caching Strategy)과 캐시 일관성 문제",
