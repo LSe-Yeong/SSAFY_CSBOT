@@ -51,7 +51,8 @@
     "멱등성(Idempotency)을 활용한 분산 시스템의 안정성 보장",
     "분산 락(Distributed Lock)을 통한 동시성 제어와 선택 기준",
     "백프레셔(Backpressure) 처리와 시스템 안정성: 느린 소비자를 다루기",
-    "캐싱 전략: Cache-Aside, Write-Through, Write-Behind의 선택 기준"
+    "캐싱 전략: Cache-Aside, Write-Through, Write-Behind의 선택 기준",
+    "분산 시스템에서의 타임아웃 설정과 재시도(Retry) 전략"
   ],
   "운영체제": [
     "프로세스와 스레드의 차이 및 컨텍스트 스위칭",
@@ -60,7 +61,8 @@
     "CPU 스케줄링 알고리즘과 문맥 교환(Context Switching)의 성능 영향",
     "메모리 누수와 GC 튜닝: 힙 메모리 관리의 실전 전략",
     "메모리 관리: 스택(Stack)과 힙(Heap)의 역할 분담과 성능 영향",
-    "인터럽트(Interrupt)와 컨텍스트 스위칭: CPU 자원의 효율적인 활용"
+    "인터럽트(Interrupt)와 컨텍스트 스위칭: CPU 자원의 효율적인 활용",
+    "데드락(Deadlock) 발생 원인과 예방 전략"
   ],
   "WEB": [
     "HTTP 상태 코드와 REST API 설계의 실제 적용",
