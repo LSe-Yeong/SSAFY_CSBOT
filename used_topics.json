@@ -38,7 +38,8 @@
     "ThreadLocal과 메모리 누수 방지 전략",
     "ConcurrentHashMap과 동시성 제어: 멀티스레드 환경에서의 안전한 해시맵 사용",
     "Synchronized와 Lock의 실제 차이: 어느 것을 언제 써야 할까?",
-    "ReentrantLock과 Condition을 활용한 명시적 동시성 제어"
+    "ReentrantLock과 Condition을 활용한 명시적 동시성 제어",
+    "Java의 Equals와 HashCode: 객체 동등성 판단의 올바른 이해"
   ],
   "시스템 설계": [
     "캐싱 전략(Caching Strategy)과 캐시 일관성 문제",
@@ -52,7 +53,8 @@
     "분산 락(Distributed Lock)을 통한 동시성 제어와 선택 기준",
     "백프레셔(Backpressure) 처리와 시스템 안정성: 느린 소비자를 다루기",
     "캐싱 전략: Cache-Aside, Write-Through, Write-Behind의 선택 기준",
-    "분산 시스템에서의 타임아웃 설정과 재시도(Retry) 전략"
+    "분산 시스템에서의 타임아웃 설정과 재시도(Retry) 전략",
+    "API 응답 캐싱과 Stale-While-Revalidate: 캐시 신뢰성과 성능의 균형"
   ],
   "운영체제": [
     "프로세스와 스레드의 차이 및 컨텍스트 스위칭",
