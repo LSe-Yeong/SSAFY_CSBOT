@@ -30,7 +30,8 @@
     "분할 정복(Divide and Conquer)을 활용한 효율적인 문제 해결",
     "투 포인터(Two Pointer) 기법과 슬라이딩 윈도우(Sliding Window)를 활용한 효율적인 배열 탐색",
     "확률론적 스킵 리스트(Skip List)와 효율적인 검색 구조 이해",
-    "비트 마스킹(Bit Masking)을 활용한 효율적인 상태 관리"
+    "비트 마스킹(Bit Masking)을 활용한 효율적인 상태 관리",
+    "카운팅 정렬(Counting Sort)을 활용한 선형 시간 정렬"
   ],
   "Java": [
     "가비지 컬렉션(GC)의 동작 원리와 성능 최적화",
