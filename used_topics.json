@@ -10,7 +10,8 @@
     "의존성 주입(DI)과 IoC 컨테이너의 실제 역할",
     "Spring AOP(관점 지향 프로그래밍)와 횡단 관심사 분리",
     "Spring Bean의 생명주기(Lifecycle)와 초기화/소멸 메커니즘",
-    "Spring의 트랜잭션 관리(@Transactional)와 프록시 기반 동작 원리"
+    "Spring의 트랜잭션 관리(@Transactional)와 프록시 기반 동작 원리",
+    "Spring Security와 인증/인가의 실제 동작 원리"
   ],
   "자료구조": [
     "해시 테이블(Hash Table)과 충돌 해결 전략",
