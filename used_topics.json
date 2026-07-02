@@ -22,7 +22,8 @@
   "네트워크": [
     "TCP 3-Way Handshake와 연결 상태 관리",
     "UDP vs TCP: 프로토콜 선택 기준과 실전 활용",
-    "HTTP Keep-Alive와 Connection 재사용을 통한 네트워크 성능 최적화"
+    "HTTP Keep-Alive와 Connection 재사용을 통한 네트워크 성능 최적화",
+    "HTTPS와 TLS/SSL 핸드셰이크: 암호화된 통신의 실제 동작"
   ],
   "알고리즘": [
     "이진 탐색(Binary Search)과 정렬된 데이터의 활용",
