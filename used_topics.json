@@ -46,7 +46,8 @@
     "Synchronized와 Lock의 실제 차이: 어느 것을 언제 써야 할까?",
     "ReentrantLock과 Condition을 활용한 명시적 동시성 제어",
     "Java의 Equals와 HashCode: 객체 동등성 판단의 올바른 이해",
-    "자바의 메모리 모델(Memory Model)과 Happens-Before 관계의 실무 이해"
+    "자바의 메모리 모델(Memory Model)과 Happens-Before 관계의 실무 이해",
+    "ConcurrentHashMap과 멀티스레드 환경에서의 안전한 동시성 제어"
   ],
   "시스템 설계": [
     "캐싱 전략(Caching Strategy)과 캐시 일관성 문제",
@@ -79,6 +80,7 @@
     "RESTful API 설계에서 멱등성(Idempotency)의 실무 적용",
     "HTTP Keep-Alive와 Connection 관리를 통한 네트워크 성능 최적화",
     "CORS(Cross-Origin Resource Sharing)와 SameSite 쿠키 정책의 보안 실전",
-    "웹 보안의 필수 개념: CSRF, XSS 방어와 Content Security Policy"
+    "웹 보안의 필수 개념: CSRF, XSS 방어와 Content Security Policy",
+    "RESTful API에서의 멱등성(Idempotency) 이해와 실무 적용"
   ]
 }
